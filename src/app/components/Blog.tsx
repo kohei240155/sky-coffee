@@ -61,6 +61,7 @@ const Blog = () => (
                     </a>
                 </div>
             </div>
+            <a href="#" className="btn">ブログ一覧</a>
         </div>
     </section>
 );
