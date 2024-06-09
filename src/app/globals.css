@@ -39,3 +39,8 @@ img {
   width: 280px;
   margin: 0 auto;
 }
+
+/* メインビジュアル */
+.main-visual {
+  text-align: center;
+}
