@@ -5,6 +5,7 @@ import MainVisual from "./components/MainVisual";
 import GlobalNav from "./components/GlobalNav";
 import Concept from "./components/Concept";
 import Blog from "./components/Blog";
+import Footer from "./components/Footer";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
         <Concept />
         <Blog />
       </main>
+      <Footer />
     </div>
   );
 }
